@@ -1,0 +1,89 @@
+[[Xorg_kbproto]]
+arch = "armv7l"
+git-tree-sha1 = "1ccad8e795d2c93f89a14c5a45a11331dff94dfc"
+libc = "glibc"
+os = "linux"
+
+    [[Xorg_kbproto.download]]
+    sha256 = "d919f7603e14096c530208a026dc0aea283f3530a6c62fe1d9b9c94a0a72123b"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_kbproto_jll.jl/releases/download/Xorg_kbproto-v1.0.7+0/Xorg_kbproto.v1.0.7.arm-linux-gnueabihf.tar.gz"
+[[Xorg_kbproto]]
+arch = "aarch64"
+git-tree-sha1 = "ccc69bec9ef90aab10916ee4e4e0a04a62f9c852"
+libc = "musl"
+os = "linux"
+
+    [[Xorg_kbproto.download]]
+    sha256 = "ee518f5ecd30ba359d237bc3940ac45c800e1fd6478b803f5d1016bb5541f883"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_kbproto_jll.jl/releases/download/Xorg_kbproto-v1.0.7+0/Xorg_kbproto.v1.0.7.aarch64-linux-musl.tar.gz"
+[[Xorg_kbproto]]
+arch = "i686"
+git-tree-sha1 = "1a5512a0ed5dc39f3bcbf4f3c9c392c0c3a74e83"
+libc = "musl"
+os = "linux"
+
+    [[Xorg_kbproto.download]]
+    sha256 = "810e2fadf323114378def28a4128b7ffd876f093d97f685e83627a27cd29e5e2"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_kbproto_jll.jl/releases/download/Xorg_kbproto-v1.0.7+0/Xorg_kbproto.v1.0.7.i686-linux-musl.tar.gz"
+[[Xorg_kbproto]]
+arch = "i686"
+git-tree-sha1 = "82d4ae9a8c67d16ce35fbff8ecd746b03f5f2d6a"
+libc = "glibc"
+os = "linux"
+
+    [[Xorg_kbproto.download]]
+    sha256 = "efa1390f874cfc2930a48bdd68f8a9ed5a6e55fb93cc25299a3c5d249386715c"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_kbproto_jll.jl/releases/download/Xorg_kbproto-v1.0.7+0/Xorg_kbproto.v1.0.7.i686-linux-gnu.tar.gz"
+[[Xorg_kbproto]]
+arch = "x86_64"
+git-tree-sha1 = "c38ec8fdfcfe53e4df5cba9039cfdcd05ae4329c"
+os = "freebsd"
+
+    [[Xorg_kbproto.download]]
+    sha256 = "3ee910ef299439fee727a2011572c4d54ea0bf11bdcd138da350c50e185684e5"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_kbproto_jll.jl/releases/download/Xorg_kbproto-v1.0.7+0/Xorg_kbproto.v1.0.7.x86_64-unknown-freebsd11.1.tar.gz"
+[[Xorg_kbproto]]
+arch = "powerpc64le"
+git-tree-sha1 = "0c5dd9816f4aa6e9f23e505bf885b638083cf327"
+libc = "glibc"
+os = "linux"
+
+    [[Xorg_kbproto.download]]
+    sha256 = "bd1cc1bc3fdb04a01a60f34881c90a8675c8f98644ae321554efcfbbb287414f"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_kbproto_jll.jl/releases/download/Xorg_kbproto-v1.0.7+0/Xorg_kbproto.v1.0.7.powerpc64le-linux-gnu.tar.gz"
+[[Xorg_kbproto]]
+arch = "armv7l"
+git-tree-sha1 = "ca37ea930dd3b220c9a83180a453f1a0c5048ad7"
+libc = "musl"
+os = "linux"
+
+    [[Xorg_kbproto.download]]
+    sha256 = "1e311c691d07a39eeff5732bb914007a45a5f3d60bbd77f1dc38d5adb7430711"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_kbproto_jll.jl/releases/download/Xorg_kbproto-v1.0.7+0/Xorg_kbproto.v1.0.7.arm-linux-musleabihf.tar.gz"
+[[Xorg_kbproto]]
+arch = "aarch64"
+git-tree-sha1 = "8eeb4d76ddefa1fccd0a5db303f7798549830f24"
+libc = "glibc"
+os = "linux"
+
+    [[Xorg_kbproto.download]]
+    sha256 = "5a5825c9bf3c9413c8cc0494574cecc89fe84de2403e1147cbb73c93ca4050b1"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_kbproto_jll.jl/releases/download/Xorg_kbproto-v1.0.7+0/Xorg_kbproto.v1.0.7.aarch64-linux-gnu.tar.gz"
+[[Xorg_kbproto]]
+arch = "x86_64"
+git-tree-sha1 = "7ff77ca01e91bd7e9df07a63213297a98b3d9dc2"
+libc = "glibc"
+os = "linux"
+
+    [[Xorg_kbproto.download]]
+    sha256 = "470948ef79ec1734cf68a405e1f093e5f2340d2ab7ae66f8c6e09f9e813bd094"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_kbproto_jll.jl/releases/download/Xorg_kbproto-v1.0.7+0/Xorg_kbproto.v1.0.7.x86_64-linux-gnu.tar.gz"
+[[Xorg_kbproto]]
+arch = "x86_64"
+git-tree-sha1 = "271e659baa1d97499ec22fb2d71b09344c7fc983"
+libc = "musl"
+os = "linux"
+
+    [[Xorg_kbproto.download]]
+    sha256 = "f2aa5d71985a8c80f2ccd0247d8dd7e52d1f96cb47176df8edc1983c9d8c5f0e"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_kbproto_jll.jl/releases/download/Xorg_kbproto-v1.0.7+0/Xorg_kbproto.v1.0.7.x86_64-linux-musl.tar.gz"
