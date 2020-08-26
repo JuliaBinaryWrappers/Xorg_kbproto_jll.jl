@@ -1,6 +1,6 @@
 name = "Xorg_kbproto_jll"
 uuid = "060dd47b-79ec-5ba1-a7b2-f4f2f7dcdd0f"
-version = "1.0.7+1"
+version = "1.0.7+2"
 
 [deps]
 Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
